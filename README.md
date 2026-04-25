@@ -16,9 +16,7 @@ IMARCH-CCS-8888: A tactical-grade digital chronicle for humanitarian missions an
 
 ---
 
-PROJECT PHILOSOPHY | ФИЛОСОФИЯ ПРОЕКТА
-
-    ### PROJECT PHILOSOPHY | ФИЛОСОФИЯ ПРОЕКТА
+### PHILOSOPHIA PROIECTI | PROJECT PHILOSOPHY | PHILOSOPHIE DU PROJET | FILOSOFÍA DEL PROYECTO | ФИЛОСОФИЯ ПРОЕКТА | 项目哲学 | فلسفة المشروع | ФІЛОСОФІЯ ПРОЄКТУ
 
 **(LA):** **CCS OS 8888** est systema operandi décentralizatum ad renovationem humanam. GitHub utimur ut Chronica immutabili et Telegram ut interface moderationis in tempore reali.
 
