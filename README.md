@@ -6,7 +6,7 @@ IMARCH-CCS-8888: A tactical-grade digital chronicle for humanitarian missions an
 | Language | Role | Status | Access |
 | :--- | :--- | :---: | :--- |
 | **Latina** | *Foundation & Ethics* | 🏛 Foundation | [Lēctiō documentōrum](./README_LAT.md) |
-| **English** | *Legal & International* | 🌐 Main | [View Documentation](./README.md) |
+| **English** | *Legal & International* | 🌐 Main | [View Documentation](./README_EN.md) |
 | **Français** | *Diplomacy* | 📋 Draft | [Consulter la documentation](./README_FR.md) |
 | **Español** | *Communication* | 📋 Draft | [Ver documentación](./README_ES.md) |
 | **Русский** | *Development & Base* | 🛠 Base | [Перейти к документации](./README_RU.md) |
