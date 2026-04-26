@@ -17,19 +17,19 @@ IMARCH-CCS-8888: A tactical-grade digital chronicle for humanitarian missions an
 > [!CAUTION]
 > **LAT:** In communitate IMARCH sermones de re publica et religione districte prohibentur. Operi, victui et veteranis adiuvandis studemus. Qui regulam frangit, expellitur.
 >
-> **RU:** В сообществе IMARCH разговоры о политике и религии строго запрещены. Мы решаем задачи выживания, заработка и помощи ветеранам. Нарушение — бан.
->
-> **EN:** In the IMARCH community, discussions about politics and religion are strictly forbidden. We focus on survival, earning a living, and supporting veterans. Violation results in a ban.
->
-> **UA:** У спільноті IMARCH розмови про політику та релігію суворо заборонені. Ми вирішуємо завдання виживання, заробітку та допомоги ветеранам. Порушення — бан.
+> **AR:** في مجتمع IMARCH، تُمنع منعاً باتاً النقاشات حول السياسة والدين. نحن نركز على البقاء، كسب الرزق، ومساعدة المحاربين القدامى. المخالفة تعني الحظر.
 >
 > **ZH:** 在 IMARCH 社区中，严禁讨论政治和宗教。我们专注于生存、谋生和向退伍军人提供援助。违者将被封禁。
 >
+> **EN:** In the IMARCH community, discussions about politics and religion are strictly forbidden. We focus on survival, earning a living, and supporting veterans. Violation results in a ban.
+>
 > **FR:** Dans la communauté IMARCH, les discussions sur la politique et la religion sont strictement interdites. Nous nous concentrons sur la survie, le travail et l'aide aux vétérans. Toute violation entraînera un bannissement.
+>
+> **RU:** В сообществе IMARCH разговоры о политике и религии строго запрещены. Мы решаем задачи выживания, заработка и помощи ветеранам. Нарушение — бан.
 >
 > **ES:** En la comunidad IMARCH, las discusiones sobre política y religión están estrictamente prohibidas. Nos centramos en la supervivencia, el trabajo y el apoyo a los veteranos. La violación conlleva la expulsión.
 >
-> **AR:** في مجتمع IMARCH، تُمنع منعاً باتاً النقاشات حول السياسة والدين. نحن نركز على البقاء، كسب الرزق، ومساعدة المحاربين القدامى. المخالفة تعني الحظر.
+> **UA:** У спільноті IMARCH розмови про політику та релігію суворо заборонені. Ми вирішуємо завдання виживання, заробітку та допомоги ветеранам. Порушення — бан.
 
 ### 🌐 Select Language / Lēctiō documentōrum / Выберите язык
 
