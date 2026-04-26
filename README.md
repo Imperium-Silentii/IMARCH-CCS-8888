@@ -10,6 +10,23 @@ IMARCH-CCS-8888: A tactical-grade digital chronicle for humanitarian missions an
 >
 > **EN:** In the IMARCH community, discussions about politics and religion are strictly forbidden. We focus on survival, earning a living, and supporting veterans. Violation results in a ban.
 
+---
+
+## 💎 BECOME AN ACTOR | CUSTODIA ET VERITAS
+
+Choose your protocol to access the Support Instructions and the Audit System:
+
+| ISO | Language | Protocol Guide | Support Gateway |
+| :--- | :--- | :--- | :--- |
+| 🏛️ | **LATINA** | [PROTHOCOLLUM](./README-DONOR-EN.md) | [OFFERENDA](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+| 🇬🇧 | **ENGLISH** | [DOCUMENTATION](./README-DONOR-EN.md) | [DONATE](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+
+> [!IMPORTANT]
+> **PROOF OF RESULT:** Every donation is secured by a SHA-256 hash and recorded in the Githronical Registry.
+> **FORMA REGIT ACTUM.**
+
+---
+
 ## 🧩 Protocol Navigation
 
 * [🏛️ LAT — Latina](#philosophy-lat)
@@ -108,4 +125,21 @@ IMARCH-CCS-8888: Una crónica digital de grado táctico para misiones humanitari
 ### UA | Цифрова хроніка тактичного рівня
 IMARCH-CCS-8888: Тактичний інструмент для гуманітарних місій та реновації ветеранів. Побудований на Протоколі 8888, забезпечує прозорість, етичну довіру та наукову валідацію відновлення за методом **Sunlife-Massage®**.
 > [Читати повну версію (README-UA.md)](./README-UA.md)
+
+---
+
+## 💎 BECOME AN ACTOR | CUSTODIA ET VERITAS
+
+Choose your protocol to access the Support Instructions and the Audit System:
+
+| ISO | Language | Protocol Guide | Support Gateway |
+| :--- | :--- | :--- | :--- |
+| 🏛️ | **LATINA** | [PROTHOCOLLUM](./README-DONOR-EN.md) | [OFFERENDA](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+| 🇬🇧 | **ENGLISH** | [DOCUMENTATION](./README-DONOR-EN.md) | [DONATE](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+
+> [!IMPORTANT]
+> **PROOF OF RESULT:** Every donation is secured by a SHA-256 hash and recorded in the Githronical Registry.
+> **FORMA REGIT ACTUM.**
+
+---
 
