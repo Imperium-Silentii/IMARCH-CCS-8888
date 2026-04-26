@@ -1,6 +1,36 @@
 # IMARCH-CCS-8888
 IMARCH-CCS-8888: A tactical-grade digital chronicle for humanitarian missions and veteran renovation. Built on the Protocol Double-Eight, this open-source framework ensures transparency, ethical trust, and scientific validation of recovery through the Sunlife Method. From tactical rescue (IMARCH) to mental restoration (CCS 8888).
 
+### ⚠️ Base Interaction Protocol
+
+| 🏳️ Language | 🚫 Rule: No Politics, No Religion | ⚖️ Focus: Work & Mission |
+| :--- | :--- | :--- |
+| **LAT (Latina)** | Nihil de re publica, nihil de religione. | Opus et Missio. |
+| **RU (Русский)** | Никакой политики, никакой религии. | Работа и Миссия. |
+| **EN (English)** | No politics, no religion. | Work & Mission. |
+| **UA (Українська)** | Жодної політики, жодної релігії. | Робота та Місія. |
+| **ZH (中文)** | 不谈政治，不谈宗教。 | 工作与使命。 |
+| **FR (Français)** | Pas de politique, pas de religion. | Travail & Mission. |
+| **ES (Español)** | Sin política, sin religión. | Trabajo y Misión. |
+| **AR (العربية)** | لا سياسة، لا دين. | العمل والمهمة. |
+
+> [!CAUTION]
+> **LAT:** In communitate IMARCH sermones de re publica et religione districte prohibentur. Operi, victui et veteranis adiuvandis studemus. Qui regulam frangit, expellitur.
+>
+> **RU:** В сообществе IMARCH разговоры о политике и религии строго запрещены. Мы решаем задачи выживания, заработка и помощи ветеранам. Нарушение — бан.
+>
+> **EN:** In the IMARCH community, discussions about politics and religion are strictly forbidden. We focus on survival, earning a living, and supporting veterans. Violation results in a ban.
+>
+> **UA:** У спільноті IMARCH розмови про політику та релігію суворо заборонені. Ми вирішуємо завдання виживання, заробітку та допомоги ветеранам. Порушення — бан.
+>
+> **ZH:** 在 IMARCH 社区中，严禁讨论政治和宗教。我们专注于生存、谋生和向退伍军人提供援助。违者将被封禁。
+>
+> **FR:** Dans la communauté IMARCH, les discussions sur la politique et la religion sont strictement interdites. Nous nous concentrons sur la survie, le travail et l'aide aux vétérans. Toute violation entraînera un bannissement.
+>
+> **ES:** En la comunidad IMARCH, las discusiones sobre política y religión están estrictamente prohibidas. Nos centramos en la supervivencia, el trabajo y el apoyo a los veteranos. La violación conlleva la expulsión.
+>
+> **AR:** في مجتمع IMARCH، تُمنع منعاً باتاً النقاشات حول السياسة والدين. نحن نركز على البقاء، كسب الرزق، ومساعدة المحاربين القدامى. المخالفة تعني الحظر.
+
 ### 🌐 Select Language / Lēctiō documentōrum / Выберите язык
 
 | Language | Role | Status | Access |
