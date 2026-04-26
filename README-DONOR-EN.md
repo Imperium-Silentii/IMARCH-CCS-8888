@@ -1,4 +1,4 @@
-# README-DONOR.md — Actor's Instruction
+# README-DONOR — Actor's Instruction
 
 ## Leadership & Expertise
 
