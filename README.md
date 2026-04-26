@@ -1,9 +1,11 @@
 # IMARCH-CCS-8888
 
 ### 🏛️ LAT | Chronica Digitalis Gradus Tactici
+
 IMARCH-CCS-8888: Chronica digitalis gradus tactici ad missiones humanitarias et renovationem veteranorum. In Prototocollo Duplo-Octo aedificata, haec structura perspicuitatem et fiduciam ethicam praebet per Methodum **Sunlife-Massage®**.
 ---
 ### EN | Tactical-grade Digital Chronicle
+
 IMARCH-CCS-8888: A tactical-grade digital chronicle for humanitarian missions and veteran renovation. Built on the Protocol Double-Eight, this framework ensures transparency, ethical trust, and scientific validation of recovery through the **Sunlife-Massage®** Method.
 
 > [!CAUTION]
