@@ -2,6 +2,23 @@
 
 **IMARCH-CCS-8888** это цифровая хроника тактического уровня, созданная для обеспечения гуманитарных миссий и реновации ветеранов. Мы строим систему, где доверие базируется не на словах, а на научном подтверждении результата (**Proof of Result**) и прозрачном учёте вклада (**КТУ**).
 
+---
+
+## 💎 BECOME AN ACTOR | CUSTODIA ET VERITAS
+
+Choose your protocol to access the Support Instructions and the Audit System:
+
+| ISO | Language | Protocol Guide | Support Gateway |
+| :--- | :--- | :--- | :--- |
+| 🏛️ | **LATINA** | [PROTHOCOLLUM](./README-DONOR-EN.md) | [OFFERENDA](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+| 🇬🇧 | **ENGLISH** | [DOCUMENTATION](./README-DONOR-EN.md) | [DONATE](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+
+> [!IMPORTANT]
+> **PROOF OF RESULT:** Every donation is secured by a SHA-256 hash and recorded in the Githronical Registry.
+> **FORMA REGIT ACTUM.**
+
+---
+
 ## 🧩 Основные Узлы Системы (Core Nodes)
 
 Для аудита и глубокого погружения используйте навигацию по функциональным узлам Протокола 8888. Каждая директория это операционный блок.
@@ -74,5 +91,22 @@
 > [!IMPORTANT]
 >IMARCH это холдинг, где коммерческая эффективность (дизайн, консалтинг, образовательные продукты, технологические решения и публикации) питает технологический и социальный прорыв. Мы не спорим о политике, мы кодим будущее.
 
+## 💎 BECOME AN ACTOR | CUSTODIA ET VERITAS
+
+Choose your protocol to access the Support Instructions and the Audit System:
+
+| ISO | Language | Protocol Guide | Support Gateway |
+| :--- | :--- | :--- | :--- |
+| 🏛️ | **LATINA** | [PROTHOCOLLUM](./README-DONOR-EN.md) | [OFFERENDA](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+| 🇬🇧 | **ENGLISH** | [DOCUMENTATION](./README-DONOR-EN.md) | [DONATE](https://whydonate.com/fundraising/vis-realitatis-preserving-memory) |
+
+> [!IMPORTANT]
+> **PROOF OF RESULT:** Every donation is secured by a SHA-256 hash and recorded in the Githronical Registry.
+> **FORMA REGIT ACTUM.**
+
+---
+
 ---
 © 2026 IMARCH LTD. Верифицировано по Протоколу 8888.
+
+
