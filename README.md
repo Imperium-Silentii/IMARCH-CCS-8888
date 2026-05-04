@@ -35,7 +35,7 @@ Choose your protocol to access the Support Instructions and the Audit System:
 ## 🧩 Protocol Navigation
 
 * [🏛️ LAT — Latina](#philosophy-lat)
-* [🪙AR — العربية](#philosophy-ar)
+* [🪙 AR — العربية](#philosophy-ar)
 * [🪙 ZH — 中文](#philosophy-zh)
 * [🪙 EN — English](#philosophy-en)
 * [🪙 FR — Français](#philosophy-fr)
