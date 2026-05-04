@@ -41,7 +41,7 @@ Choose your protocol to access the Support Instructions and the Audit System:
 * [🪙 FR — Français](#philosophy-fr)
 * [🪙 RU — Русский](#philosophy-ru)
 * [🪙 ES — Español](#philosophy-es)
-* [🇺🇦 UA — Українська](#philosophy-ua)
+* [🪙 UA — Українська](#philosophy-ua)
 
 ---
 
