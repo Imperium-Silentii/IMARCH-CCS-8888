@@ -35,12 +35,12 @@ Choose your protocol to access the Support Instructions and the Audit System:
 ## 🧩 Protocol Navigation
 
 * [🏛️ LAT — Latina](#philosophy-lat)
-* [🇸🇦 AR — العربية](#philosophy-ar)
-* [🇨🇳 ZH — 中文](#philosophy-zh)
-* [🇺🇸 EN — English](#philosophy-en)
-* [🇫🇷 FR — Français](#philosophy-fr)
-* [🇷🇺 RU — Русский](#philosophy-ru)
-* [🇪🇸 ES — Español](#philosophy-es)
+* [🪙AR — العربية](#philosophy-ar)
+* [🪙 ZH — 中文](#philosophy-zh)
+* [🪙 EN — English](#philosophy-en)
+* [🪙 FR — Français](#philosophy-fr)
+* [🪙 RU — Русский](#philosophy-ru)
+* [🪙 ES — Español](#philosophy-es)
 * [🇺🇦 UA — Українська](#philosophy-ua)
 
 ---
