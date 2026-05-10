@@ -40,4 +40,6 @@
 
 **Support the Project:** [WhyDonate](https://whydonate.com/fundraising/vis-realitatis-preserving-memory)
 
+**Registry Official:** [Documents](https://github.com/Imperium-Silentii/imarch-documents-official)
+
 **IMARCH — Economy of Participation and Transparency.**
